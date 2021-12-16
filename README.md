@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuraaderele&label=Profile%20views&color=0e75b6&style=flat" alt="wuraaderele" /> </p>
 
 <a href="https://www.linkedin.com/in/wuraaderele/">
-   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+   <img align="left" alt="Adediwura's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/wuraaderele">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Adediwura's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/__adediwura/">
-  <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Adediwura's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
@@ -45,6 +45,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wuraaderele&show_icons=true&locale=en&layout=compact" alt="wuraaderele" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wuraaderele&" alt="wuraaderele" /></p>
+
+## Check out my repositories 👇🏾 </h2>
 
 <!---
 WuraAderele/WuraAderele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
