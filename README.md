@@ -5,8 +5,6 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
----
-
 <a href="https://www.linkedin.com/in/wuraaderele/">
    <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
