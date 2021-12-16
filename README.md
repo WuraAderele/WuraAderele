@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuraaderele&label=Profile%20views&color=0e75b6&style=flat" alt="wuraaderele" /> </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-
 <a href="https://www.linkedin.com/in/wuraaderele/">
    <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,9 +12,11 @@
 <a href="https://www.instagram.com/__adediwura/">
   <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br />
 
+## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
-
+<p align="left"> <a href="https://twitter.com/wuraaderele__" target="blank"><img src="https://img.shields.io/twitter/follow/wuraaderele__?logo=twitter&style=for-the-badge" alt="wuraaderele__" /></a> </p>
 
 - 🌱 I’m currently learning **SQL, Power BI, and Python**
 
@@ -30,9 +30,13 @@
 - :writing_hand: I spend hours learning **```SQL```**, **```Python```**, and visualisation tools such as **```Power BI```**
 - :sparkles: **My passion:** Using data to derive insights that can help businesses succeed!
 
-<h3 align="left">Connect with me:</h3>
+<br />
+
+<h2 align="left">Connect with me:</h2>
+
 <p align="left">
 <a href="https://linkedin.com/in/adediwura ayo-aderele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adediwura ayo-aderele" height="30" width="40" /></a>
+<a href="https://instagram.com/__adediwura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__adediwura" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
