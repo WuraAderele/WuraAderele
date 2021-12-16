@@ -20,6 +20,8 @@
 
 <p align="left"> <a href="https://twitter.com/wuraaderele__" target="blank"><img src="https://img.shields.io/twitter/follow/wuraaderele__?logo=twitter&style=for-the-badge" alt="wuraaderele__" /></a> </p>
 
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/WuraAderele/WuraAderele/blob/main/Quote%20I%20live%20by.gif" />
+
 - 🌱 I’m currently learning **SQL, Power BI, and Python**
 
 - 📫 You can reach me at **wura.ayoaderele@gmail.com**
