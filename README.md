@@ -6,7 +6,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
 ---
-<br />
 
 <a href="https://www.linkedin.com/in/wuraaderele/">
    <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,9 +16,6 @@
 <a href="https://www.instagram.com/__adediwura/">
   <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
----
-<br />
 
 ## Welcome to my profile! 🌼
 
@@ -35,7 +31,9 @@
 
 - 📄 Know about my experiences following this link: [https://www.linkedin.com/in/wuraaderele/](https://www.linkedin.com/in/wuraaderele/)
 
-- ⚡ Fun fact **I love animals!**
+- **Fun Facts:**
+- :writing_hand: I spend hours learning **```SQL```**, **```Python```**, and visualisation tools such as **```Power BI```**
+- :sparkles: **My passion:** Using data to derive insights that can help businesses succeed!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
