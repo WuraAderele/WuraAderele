@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Adediwura</h1>
-<h3 align="left">Welcome to my GitHub profile!</h3>
+<h1 align="left"> I'm Adediwura ✨</h1>
+## Welcome to my profile! 🌼
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuraaderele&label=Profile%20views&color=0e75b6&style=flat" alt="wuraaderele" /> </p>
 
@@ -16,8 +16,6 @@
 <a href="https://www.instagram.com/__adediwura/">
   <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-## Welcome to my profile! 🌼
 
 ---
 <br />
