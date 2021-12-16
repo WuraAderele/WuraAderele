@@ -16,6 +16,7 @@
 </a>
 
 <br />
+---
 
 
 - 🌱 I’m currently learning **SQL, Power BI, and Python**
