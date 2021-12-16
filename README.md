@@ -1,3 +1,5 @@
+<p  align="center"><img src = "https://github.com/WuraAderele/WuraAderele/blob/main/Hi%2C%20and%20Welcome!!!.gif"></p>
+
 <h1 align="left"> I'm Adediwura ✨</h1>
 <h3 align="left"> Welcome to my profile! 🌼</h3>
 
