@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Adediwura</h1>
-<h3 align="center">I'm interested in everything data</h3>
+<h1 align="left">Hi 👋, I'm Adediwura</h1>
+<h3 align="left">Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuraaderele&label=Profile%20views&color=0e75b6&style=flat" alt="wuraaderele" /> </p>
 
+## Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+
+---
+<br />
+
+<a href="https://www.linkedin.com/in/wuraaderele/">
+   <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/wuraaderele">
+  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/__adediwura/">
+  <img align="left" alt="Leah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+---
+<br />
+
+## Welcome to my profile! 🌼
+
+---
+<br />
+
+
 - 🌱 I’m currently learning **SQL, Power BI, and Python**
 
-- 💬 Ask me about **the things I'm learning 😁**
+- 📫 You can reach me at **wura.ayoaderele@gmail.com**
 
-- 📫 How to reach me **wura.ayoaderele@gmail.com**
+- 💞️ I’m not looking to collaborate on nothing yet! Maybe sometime in the future
 
 - 📄 Know about my experiences following this link: [https://www.linkedin.com/in/wuraaderele/](https://www.linkedin.com/in/wuraaderele/)
 
