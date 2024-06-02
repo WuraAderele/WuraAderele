@@ -22,17 +22,13 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="https://github.com/WuraAderele/WuraAderele/blob/main/Quote%20I%20live%20by.gif" />
 
-- 🌱 I’m currently learning **SQL, Power BI, and Python**
+- 🌱 I’m currently learning **SQL, Python, and System Design** as part of my drive to improve my technical abilities and succeed in a Technical Program Manager role
 
 - 📫 You can reach me at **wura.ayoaderele@gmail.com**
 
 - 💞️ I’m not looking to collaborate on nothing yet! Maybe sometime in the future
 
 - 📄 Know about my experiences following this link: [https://www.linkedin.com/in/wuraaderele/](https://www.linkedin.com/in/wuraaderele/)
-
-- **Fun Facts:**
-- :writing_hand: I spend hours learning **```SQL```**, **```Python```**, and visualisation tools such as **```Power BI```**
-- :sparkles: **My passion:** Using data to derive insights that can help businesses succeed!
 
 <br />
 
