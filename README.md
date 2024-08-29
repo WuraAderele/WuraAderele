@@ -22,7 +22,7 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="https://github.com/WuraAderele/WuraAderele/blob/main/Quote%20I%20live%20by.gif" />
 
-- 🌱 I’m currently practicing my **SQL, Cloud Architecting, and System Design** skills as part of my drive to improve my technical acumen and succeed in a Technical Program Manager + Cloud oriented role (Cloud Architect/Cloud Consultant)
+- 🌱 I’m currently practicing my **SQL, Cloud Architecting, Python, Infrastructure Automation, and System Design** skills as part of my drive to improve my technical acumen and succeed in a Technical Program Manager or Cloud oriented role (Cloud Architect/Cloud Consultant)
 
 - 📫 You can reach me at **wura.ayoaderele@gmail.com**
 
